@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align='right'>Paul Nguyen</h1>
 
-<!--
-**keyboardkardio/keyboardkardio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Projects
 
-Here are some ideas to get you started:
+### [SuperSet](https://github.com/keyboardkardio/superset)
+> Fitness tracker 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Keyz](https://github.com/keyboardkardio/react-keyz)
+> MIDI Keyboard
+
+### [Fitness Things](https://github.com/keyboardkardio/fitness)
+> Fitness dataset
+
+### [rustOS](https://github.com/keyboardkardio/rustOS)
+> A small operating system in Rust
+
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=48 width=48 /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=48 width=48 /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=48 width=48 /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height=48 width=48 /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height=48 width=48 /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=48 width=48 /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=48 width=48 /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height=48 width=48 /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height=48 width=48 /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=48 width=48 /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height=48 width=48 /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height=48 width=48 /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height=48 width=48 /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height=48 width=48 /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" height=48 width=48 /> &nbsp;
