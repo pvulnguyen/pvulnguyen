@@ -14,6 +14,8 @@
 ### [rustOS](https://github.com/keyboardkardio/rustOS)
 > A small operating system in Rust
 
+## Skills
+
 <br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height=48 width=48 /> &nbsp;
