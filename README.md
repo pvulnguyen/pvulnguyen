@@ -2,17 +2,14 @@
 
 ## My Projects
 
-### [SuperSet](https://github.com/keyboardkardio/superset)
+### [SuperSet](https://github.com/pvulnguyen/superset)
 > Fitness tracker 
 
-### [Keyz](https://github.com/keyboardkardio/react-keyz)
+### [Keyz](https://github.com/pvulnguyen/react-keyz)
 > MIDI Keyboard
 
-### [Fitness Things](https://github.com/keyboardkardio/fitness)
+### [Fitness Things](https://github.com/pvulnguyen/fitness)
 > Fitness dataset
-
-### [rustOS](https://github.com/keyboardkardio/rustOS)
-> A small operating system in Rust
 
 ## Skills
 
