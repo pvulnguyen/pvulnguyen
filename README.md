@@ -1,15 +1,15 @@
 <h1 align='right'>Paul Nguyen</h1>
 
-## My Projects
+## Projects
+
+### [Teaspoon](https://github.com/pvulnguyen/teaspoon)
+> A digital cookbook where you can explore, create, and share cooking recipes.
 
 ### [SuperSet](https://github.com/pvulnguyen/superset)
-> Fitness tracker 
+> An online fitness journal for athletes to log workout sessions.
 
 ### [Keyz](https://github.com/pvulnguyen/react-keyz)
-> MIDI Keyboard
-
-### [Fitness Things](https://github.com/pvulnguyen/fitness)
-> Fitness dataset
+> A virtual piano keyboard made with React.js and SoundFont.
 
 ## Skills
 
